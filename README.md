@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marufswe&label=Profile%20views&color=0e75b6&style=flat" alt="marufswe" /> </p>
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **FastAPI** and **TypeScript**
 
 - 💬 Ask me about **Python, Django, REST**
 
